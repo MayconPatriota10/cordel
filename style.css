@@ -97,12 +97,6 @@ section#img02 {
     background-size: cover;
 }
 
-section#img03 {
-    background-image: url('imagem/imagem.cordel.png');
-    background-position: right center;
-    background-size: cover;
-}
-
 footer {
     background-color: rgba(0, 0, 0, 0.801);
     color: white;
